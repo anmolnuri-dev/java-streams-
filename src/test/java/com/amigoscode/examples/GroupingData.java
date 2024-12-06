@@ -1,14 +1,11 @@
-package com.amigoscode.examples;
+package com.anmolcode.examples;
 
 
-import com.amigoscode.beans.Car;
-import com.amigoscode.mockdata.MockData;
+import com.anmolcode.beans.Car;
+import com.anmolcode.mockdata.MockData;
 import org.junit.jupiter.api.Test;
 
 import java.util.List;
-import java.util.Map;
-import java.util.function.Function;
-import java.util.stream.Collectors;
 
 public class GroupingData {
 

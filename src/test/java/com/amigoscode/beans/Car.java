@@ -1,4 +1,4 @@
-package com.amigoscode.beans;
+package com.anmolcode.beans;
 
 public class Car {
 
